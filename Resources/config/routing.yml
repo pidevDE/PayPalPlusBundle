@@ -1,0 +1,3 @@
+pidev_de_pay_pal_plus_homepage:
+    path:     /
+    defaults: { _controller: pidevDEPayPalPlusBundle:Default:index }
